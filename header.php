@@ -42,7 +42,7 @@ echo "
         <div class='collapse navbar-collapse' id='navbarResponsive'>
           <ul class='navbar-nav ml-auto'>
             <li class='nav-item active'>
-              <a class='nav-link' href='signup.php'>Signup Now!
+            <button id ='btn_Signup' class='btn btn-danger btn-lg' type ='button' data-toggle='modal' data-target='#myModal'>Sign Up</button>
                 <span class='sr-only'>(current)</span>
               </a>
             </li>
