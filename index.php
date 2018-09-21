@@ -66,7 +66,7 @@
        <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
-              <h4 class="modal-title">Signup Now</h4>
+              <h4 class="modal-title">Sign Up</h4>
             </div>
             <div class="modal-body">
               <form class="signup-form" action="includes/signup.inc.php" method="POST">
